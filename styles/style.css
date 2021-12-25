@@ -1,9 +1,17 @@
-/*Mobile Size Page*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
 body{
-    width: 360px;
+    font-family: 'Roboto', sans-serif;
 }
+
+/*Mobile Size Page*/
+
 
 /* Solid border */
 hr.solid {
     border-top: 3px solid #bbb;
-  }
+  };
+
+.logo {
+    font-weight: 900;
+}

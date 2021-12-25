@@ -1,6 +1,13 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /*Mobile Size Page*/
 body{
     width: 360px;
+    overflow: hidden;
 }
 
 /* Solid border */

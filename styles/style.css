@@ -1,0 +1,9 @@
+/*Mobile Size Page*/
+body{
+    width: 360px;
+}
+
+/* Solid border */
+hr.solid {
+    border-top: 3px solid #bbb;
+  }

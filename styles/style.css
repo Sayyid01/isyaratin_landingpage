@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: roboto, serif;
+}
+
+.mt-10{
+    margin-top: 6rem!important;
 }
 
 /*Mobile Size Page*/
@@ -58,4 +63,12 @@ body {
     right: 0;
     top: 0;
     bottom: 0;
+}
+
+#section2 h1{
+    text-align: center;
+}
+
+#section2 p{
+    text-align: center;
 }

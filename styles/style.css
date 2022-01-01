@@ -72,3 +72,13 @@ body {
 #section2 p{
     text-align: center;
 }
+
+#section3 {
+    height: 100vh;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 10rem;
+    bottom: 0;
+    background-color: #fafafa;
+}

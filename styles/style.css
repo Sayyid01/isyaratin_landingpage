@@ -74,7 +74,7 @@ body {
 }
 
 #section3 {
-    height: 20vh;
+    height: 350px;
     margin: auto;
     left: 0;
     right: 0;
@@ -107,4 +107,43 @@ body {
     right: 0;
     top: 0;
     bottom: 0;
+}
+
+#section4 {
+    height: 100vh;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#section4 h1{
+    text-align: center;
+}
+
+#section4 h2{
+    text-align: center;
+}
+
+#section4 p{
+    text-align: center;
+}
+
+#section4 hr{
+    width: 5vw;
+    height: 5px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: black;
+}
+
+#section4 button {
+    width: 45%;
+    height: 60px;
+    font-size: 700;
+    color: white;
 }

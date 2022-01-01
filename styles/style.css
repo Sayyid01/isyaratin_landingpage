@@ -74,11 +74,37 @@ body {
 }
 
 #section3 {
-    height: 100vh;
+    height: 20vh;
     margin: auto;
     left: 0;
     right: 0;
     top: 10rem;
     bottom: 0;
     background-color: #fafafa;
+}
+
+#section3 h1{
+    text-align: center;
+}
+
+#section3 p{
+    text-align: center;
+}
+
+#section3 hr{
+    width: 5vw;
+    height: 5px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#section3 .founder-img {
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
 }

@@ -6,8 +6,8 @@
     font-family: roboto, serif;
 }
 
-.mt-10{
-    margin-top: 6rem!important;
+.mt-10 {
+    margin-top: 6rem !important;
 }
 
 /*Mobile Size Page*/
@@ -52,22 +52,66 @@ body {
     height: 5px;
 }
 
-#section2 h1{
+#section2 h1 {
     text-align: center;
 }
 
-#section2 p{
+#section2 p {
     text-align: center;
 }
 
-#section3 .bg-blue{
+#section3 .bg-smoothgray {
+    background-color: rgba(214, 214, 214, 0.2);
+}
+
+#section3 .bg-blue {
     --bs-bg-opacity: 1;
-    background-color: rgba(37, 177, 255,var(--bs-bg-opacity))!important;
+    background-color: rgba(37, 177, 255, var(--bs-bg-opacity)) !important;
 }
 
-#section3 .card{
+#section3 h1 {
     text-align: center;
-    background-color: rgba(214, 214, 214, 0.7);
-    border-style: none;
-    border-radius: 0px;
+}
+
+#section3 p {
+    text-align: center;
+}
+
+#section3 hr {
+    width: 5rem;
+    height: 0.2rem;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+#section3 .founder{
+    font-size: 2.5rem;
+}
+
+#section3 .founder-img {
+    margin: auto;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
+#section3 .founder-img img {
+    width: 20%;
+    height: auto;
+    border-radius: 100%;
+    justify-content: center;
+    display: block;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section3 .pantun{
+    font-size: 2rem;
+}
+
+#section3 .invitation{
+    font-size: 1.6rem;
 }
